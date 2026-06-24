@@ -1,3 +1,22 @@
 {
-  "pegawai": []
+  "pegawai": [
+    {
+      "id": "1",
+      "nip": "P001",
+      "nama": "Nabil Arizky",
+      "tanggal_lahir": "20-01-2001",
+      "nomor_telepon": "08123456789",
+      "email": "nabil@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "2",
+      "nip": "P002",
+      "nama": "Rina Kartika",
+      "tanggal_lahir": "1995-08-21",
+      "nomor_telepon": "081234567891",
+      "email": "rina@klinik.com",
+      "password": "rina123"
+    }
+  ]
 }
